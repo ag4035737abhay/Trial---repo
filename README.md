@@ -1,5 +1,5 @@
 #define this code is used for very long integer:
-#task ..update it as a user input;
+#task ..update it into take as a user input;
 import java.math.BigInteger;
 
 public class BigIntegerExample {
